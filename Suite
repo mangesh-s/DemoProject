@@ -1,0 +1,5 @@
+describe("A suite",function(){
+    it ("contain spec with an expectation",function(){
+      excepr(true).tobe(true);
+   });
+});
